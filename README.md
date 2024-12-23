@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Website Jadwal Pertandingan Sepak Bola
 
 ### **Nama : William Chan** 
