@@ -21,7 +21,7 @@ Website: [https://uas-pemwebwilliam.infinityfreeapp.com/](https://uas-pemwebwill
  ├── jadwal.php           # Halaman jadwal pertandingan
  ├── script.js            # File JavaScript
  ├── style.css            # File CSS
- └── sepakbola.sql  # File database
+ └── sepakbola.sql        # File database
 ```
 ### **Bagian 1: Client-side Programming (30%)**
 
