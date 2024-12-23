@@ -91,7 +91,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <div class="form-group">
                     <label for="nama">Nama Lengkap</label>
                     <input type="text" id="nama" name="nama" required 
-                           placeholder="Nama minimal 3 karakter"
+                           placeholder="Nama "
                            pattern=".{3,}"
                            title="Minimal 3 karakter">
                 </div>
@@ -100,7 +100,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <label for="umur">Umur</label>
                     <input type="number" id="umur" name="umur" required 
                            min="5" max="60"
-                           placeholder="Umur minimal 5 tahun dan maksimal 60 tahun">
+                           placeholder="Umur minimal 5 tahun">
                 </div>
 
                 <div class="form-group">
@@ -119,7 +119,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <label for="nomor_telepon">Nomor Telepon</label>
                     <input type="tel" id="nomor_telepon" name="nomor_telepon" required 
                            pattern="[0-9]{10,13}"
-                           placeholder="Nomor telepon harus 10-13 digit angka"
+                           placeholder="Nomor telepon"
                            title="Nomor telepon harus 10-13 digit angka">
                 </div>
 
