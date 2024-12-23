@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Website Jadwal Pertandingan Sepak Bola
 
 ### **Nama : William Chan** 
@@ -22,3 +23,6 @@ Website: [https://uas-pemwebwilliam.infinityfreeapp.com/](https://uas-pemwebwill
  ├── script.js            # File JavaScript
  ├── style.css            # File CSS
  └── sepakbola.sql  # File database
+=======
+
+>>>>>>> e435818f98387c34bddfd27898ce2eee29a7d795
